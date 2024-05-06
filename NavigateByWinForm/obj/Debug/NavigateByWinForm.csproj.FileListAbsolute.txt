@@ -1,0 +1,16 @@
+E:\VS_project\Navigate\NavigateByWinForm\bin\Debug\NavigateByWinForm.exe.config
+E:\VS_project\Navigate\NavigateByWinForm\bin\Debug\NavigateByWinForm.exe
+E:\VS_project\Navigate\NavigateByWinForm\bin\Debug\NavigateByWinForm.pdb
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.csproj.AssemblyReference.cache
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Properties.Resources.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.csproj.GenerateResource.cache
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.csproj.CoreCompileInputs.cache
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.exe
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.pdb
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Views.ViewMain.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Views.ViewBase.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Form1.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Views.ViewTabOne.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Resource.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Views.ViewLogin.resources
+E:\VS_project\Navigate\NavigateByWinForm\obj\Debug\NavigateByWinForm.Views.ViewTabTwo.resources
